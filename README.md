@@ -18,8 +18,8 @@ Este proyecto simula un sistema IoT utilizando MQTT. Incluye un sensor de luz y 
 
 ## Ejecución
 1. Inicia el broker Mosquitto:
-2. Ejecuta el sensor:
-3. Ejecuta el interruptor:
+2. Ejecuta el sensor (switch.py):
+3. Ejecuta el interruptor (sensor.py):
 
 ## Notas
 - Cambia el valor de `value` en `sensor.py` para probar diferentes escenarios.
